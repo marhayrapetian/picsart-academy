@@ -1,4 +1,7 @@
 package am.picsartacademy.homework4;
+//Task 2:
+//Create a class Pair<K, V> that holds a key and a value.
+//Add methods to get/set both.
 
 public class Pair<k, v> {
     private k key;
